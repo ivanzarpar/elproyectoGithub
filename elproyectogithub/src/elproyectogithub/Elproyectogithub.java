@@ -7,7 +7,7 @@ package elproyectogithub;
 
 /**
  *
- * @author ivan_
+ * @author Iván Zarco Pareja
  */
 public class Elproyectogithub {
 String nombre = " ";
