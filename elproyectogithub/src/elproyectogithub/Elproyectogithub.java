@@ -11,12 +11,10 @@ package elproyectogithub;
  */
 public class Elproyectogithub {
 String nombre = " ";
-int notadeseada = 0;
-int notareal = 0;
+private int notadeseada = 0;
+private int notareal = 0;
 
 public static String veredicto(String valor1, String valor2) {
-
-
 
         if (valor1.equals(valor2)) {
 
@@ -32,8 +30,9 @@ public static String veredicto(String valor1, String valor2) {
 
         return "Te has confiado. Falta realismo.";
 
-    }
     
+    
+            }
     
     /**
      * @param args the command line arguments
